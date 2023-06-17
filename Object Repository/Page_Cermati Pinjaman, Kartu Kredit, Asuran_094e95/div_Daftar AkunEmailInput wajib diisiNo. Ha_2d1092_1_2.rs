@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Daftar AkunEmailInput wajib diisiNo. Ha_2d1092_1_2</name>
+   <tag></tag>
+   <elementGuidId>eb14f2e7-94cd-4a8e-8f1f-4c50033a25cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='safe-area']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#safe-area > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d49d99e7-9879-4c09-a0b1-7efd071bd214</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar AkunEmailInput wajib diisiNo. HandphoneKata SandiKata sandi harus memiliki panjang antara 8-50 karakter dan mengandung minimal 1 huruf besar, 1 huruf kecil, dan 1 angkaUlangi Kata SandiNama DepanNama BelakangKabupaten/KotaKabupaten/Kota tidak tersedia di dalam pilihan yang adaSaya menyetujui Syarat dan Ketentuan dan Kebijakan Privasi dan bersedia untuk dihubungi oleh Cermati.com.DaftarSudah punya akun? Masuk</value>
+      <webElementGuid>68e368a9-1d15-43de-ac72-1c49eaddbba1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;safe-area&quot;)/div[1]</value>
+      <webElementGuid>d6ced629-6bee-481b-8bb3-a93af5458aee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='safe-area']/div</value>
+      <webElementGuid>474af0ba-fc4b-4c99-aa21-9a6e52bf7cd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div</value>
+      <webElementGuid>533a564a-d113-4e0f-b628-957c2080bd57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Daftar AkunEmailInput wajib diisiNo. HandphoneKata SandiKata sandi harus memiliki panjang antara 8-50 karakter dan mengandung minimal 1 huruf besar, 1 huruf kecil, dan 1 angkaUlangi Kata SandiNama DepanNama BelakangKabupaten/KotaKabupaten/Kota tidak tersedia di dalam pilihan yang adaSaya menyetujui Syarat dan Ketentuan dan Kebijakan Privasi dan bersedia untuk dihubungi oleh Cermati.com.DaftarSudah punya akun? Masuk' or . = 'Daftar AkunEmailInput wajib diisiNo. HandphoneKata SandiKata sandi harus memiliki panjang antara 8-50 karakter dan mengandung minimal 1 huruf besar, 1 huruf kecil, dan 1 angkaUlangi Kata SandiNama DepanNama BelakangKabupaten/KotaKabupaten/Kota tidak tersedia di dalam pilihan yang adaSaya menyetujui Syarat dan Ketentuan dan Kebijakan Privasi dan bersedia untuk dihubungi oleh Cermati.com.DaftarSudah punya akun? Masuk')]</value>
+      <webElementGuid>2e778aab-51d8-472b-b068-d7d0084820f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kata SandiKata sandi harus memiliki pan_1fff67</name>
+   <tag></tag>
+   <elementGuidId>672f5fef-0c1b-4da3-bd78-887dda0431c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='safe-area']/div/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e900451f-b7e6-400d-9855-24c5db17468a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>RegistrationForm_form-container__input-group__OgDct</value>
+      <webElementGuid>8cc6d151-53ac-48ca-bbeb-1b4104ae8b6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kata SandiKata sandi harus memiliki panjang antara 8-50 karakter dan mengandung minimal 1 huruf besar, 1 huruf kecil, dan 1 angka</value>
+      <webElementGuid>f3b3990e-053b-4fc8-a512-0391d70c7385</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;safe-area&quot;)/div[1]/div[@class=&quot;superapp-container content&quot;]/div[@class=&quot;container_Eq-qi&quot;]/div[@class=&quot;RegistrationForm_form-container__input-group__OgDct&quot;]</value>
+      <webElementGuid>ef024fc7-7136-4933-baa5-ada2bf197ffa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='safe-area']/div/div[2]/div/div[2]</value>
+      <webElementGuid>3e830f1d-d909-409b-86ba-f0bc736e2d77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No. Handphone'])[1]/following::div[1]</value>
+      <webElementGuid>1a9abe86-f485-4225-92cf-fa7c771655b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[2]</value>
+      <webElementGuid>f26e0d65-d415-40f4-8f3e-d47965999b00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ulangi Kata Sandi'])[1]/preceding::div[2]</value>
+      <webElementGuid>3c3f453e-be0d-4667-8d1c-833d15872c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>63d7c75c-b3c0-4811-994f-03cf531ac347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kata SandiKata sandi harus memiliki panjang antara 8-50 karakter dan mengandung minimal 1 huruf besar, 1 huruf kecil, dan 1 angka' or . = 'Kata SandiKata sandi harus memiliki panjang antara 8-50 karakter dan mengandung minimal 1 huruf besar, 1 huruf kecil, dan 1 angka')]</value>
+      <webElementGuid>0682c063-26dd-4c8c-b3f1-6c4fcbbbf7b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

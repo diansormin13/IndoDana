@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_KOTA BEKASI</name>
+   <tag></tag>
+   <elementGuidId>3a3e0440-89d8-420e-8866-3a8a6d0c3dc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='safe-area']/div/div[2]/div/div[6]/div[2]/div/button/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.autocomplete__list-item-label_-S4yV</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7c2d37e8-a86b-4c3c-ba39-2d72ac228e0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>autocomplete__list-item-label_-S4yV</value>
+      <webElementGuid>ed7056ac-cea6-4c5b-8206-e6ba544e29e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KOTA BEKASI</value>
+      <webElementGuid>e2921d0c-f959-4ecb-8af5-cda5dae680e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;safe-area&quot;)/div[1]/div[@class=&quot;superapp-container content&quot;]/div[@class=&quot;container_Eq-qi&quot;]/div[@class=&quot;RegistrationForm_form-container__input-group__OgDct&quot;]/div[@class=&quot;autocomplete__list-container_oVU2R&quot;]/div[@class=&quot;autocomplete__list-menu_sE98J&quot;]/button[@class=&quot;autocomplete__list-item_fTFLC autocomplete__list-item--highlighted_AoxkV&quot;]/div[@class=&quot;autocomplete__list-item-label_-S4yV&quot;]</value>
+      <webElementGuid>1db32de0-b1ca-4644-a40d-182724dd6984</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='safe-area']/div/div[2]/div/div[6]/div[2]/div/button/div</value>
+      <webElementGuid>2ff83290-0648-4df6-865c-5232a624b91b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kabupaten/Kota'])[1]/following::div[5]</value>
+      <webElementGuid>81462dd3-589d-4418-96b8-8768038a7097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Belakang'])[1]/following::div[6]</value>
+      <webElementGuid>b2a624e0-0ad3-4580-aaf8-d9e31a087aee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat dan Ketentuan'])[1]/preceding::div[1]</value>
+      <webElementGuid>7a2d2afa-bdc6-472a-a50b-b573449999c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='KOTA BEKASI']/parent::*</value>
+      <webElementGuid>f2d98215-3b30-411b-82a1-517973ab0445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>308e9aa3-4882-4c1b-acaf-6e7f7dac7bee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'KOTA BEKASI' or . = 'KOTA BEKASI')]</value>
+      <webElementGuid>1c6e7eee-65c0-4ccd-82ce-05a3ef9f636c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
